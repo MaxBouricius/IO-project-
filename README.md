@@ -13,7 +13,7 @@ In Unity zelf gebruik ik de SteamVR plugin en ik heb daarvoor gekozen omdat die 
 ## Wat is het lastigste onderdeel van het project?
 Voor mij is het lagstigste gedeelte Unity leren kennen aangezien ik nog nooit In Unity of andere soortgelijke software heb gewerkt.
 
-## Is er voldoende tijd hiervoor.
-Aangezien dit mijn eerste keer is om zoiets te maken heb ik het vrij simpel gehouded dus ik denk dat het prima haalbaar is
+## Is er voldoende tijd hiervoor?
+Aangezien dit mijn eerste keer is om zoiets te maken heb ik het vrij simpel gehouded dus ik denk dat het prima haalbaar is.
 
 
