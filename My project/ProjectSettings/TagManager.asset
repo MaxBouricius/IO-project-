@@ -7,6 +7,7 @@ TagManager:
   - projectile
   - FxTemporaire
   - point
+  - hands
   layers:
   - Default
   - TransparentFX
