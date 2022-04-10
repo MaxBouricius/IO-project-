@@ -5,9 +5,9 @@ public class Button : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        if (other == gameObject.CompareTag("hands"))
+        if (other.gameObject.CompareTag("hands"))
         {
-
+            Debug.Log("hello world");
         }
     }
 
