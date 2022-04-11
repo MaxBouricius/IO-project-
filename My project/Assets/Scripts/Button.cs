@@ -1,13 +1,15 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.Events;
 
 public class Button : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider other)
+    [SerializeField] private UnityEvent buttonPressed;
+    private void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.CompareTag("hands"))
         {
-            Debug.Log("hello world");
+            buttonPressed.Invoke();
         }
     }
 
