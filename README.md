@@ -68,3 +68,6 @@ Dit is wat ik deze periode heb geactualiseerd:
 * https://youtu.be/9woJnLhSQns usertest 2
 * https://youtu.be/zjR88xtxrUQ usertest 3
 * https://youtu.be/WkdlazK1q4U usertest 4
+
+## Trello
+https://trello.com/b/BV6YkUd4/project
