@@ -32,6 +32,8 @@ De keuzes die ik heb gemaakt:
 * Unity inplaats van Unreal
 * SteamVr inplaats van Oculus
 
+![alt text](https://media.discordapp.net/attachments/649946895774646293/968270253761130567/Screenshot_2521.png?width=1022&height=642)
+
 # sprint 2
 28/03/2022-08/04/2022:
 
@@ -42,6 +44,8 @@ De dingen die ik heb geleerd:
 * Hoe ik Unity en VS 2019 samen kan laten werken
 * In C# simpele code schrijfen
 * Wat ik allemaal noding ging hebben
+
+![alt text](https://cdn.discordapp.com/attachments/649946895774646293/968271353176277082/Screenshot_2523.png)
 
 # sprint 3
 11/03/2022-22/04/2022:
@@ -56,6 +60,7 @@ Dit is wat ik deze periode heb geactualiseerd:
 * Particles inladen met de knoppen
 * Verschillende geluiden afspelen met de knoppen
 
+![alt text](https://cdn.discordapp.com/attachments/649946895774646293/968271352945582100/Screenshot_2522.png)
 
 ## Usertests
 
