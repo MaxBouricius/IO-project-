@@ -16,17 +16,46 @@ Voor mij is het lagstigste gedeelte Unity leren kennen aangezien ik nog nooit In
 ## Is er voldoende tijd hiervoor?
 Aangezien dit mijn eerste keer is om zoiets te maken heb ik het vrij simpel gehouded dus ik denk dat het prima haalbaar is.
 
-## Logboek 
-14/03/2022-18/03/2022
+## Logboek
+# sprint 1
+14/03/2022-25/03/2022:
+
 Tussen deze tijd heb ik verschillende onderzoeken gedaan, dit moest ik doen omdat ik nog nooit met deze software heb gewerkt, het zelfde geld voor dit platform.
 Ook heb ik keuzes moeten maken over wat ik gebruik 
 De onderzoeken die ik heb gedaan zijn:
 * Verschillen tussen Unity en Unreal
 * Welke virtual reality headsets je voor kan developen
 * Alle plugins die ik nodig had om virtual reality te kunnen developen
+
+
 De keuzes die ik heb gemaakt:
 * Unity inplaats van Unreal
 * SteamVr inplaats van Oculus
+
+# sprint 2
+28/03/2022-08/04/2022:
+
+In deze tijd heb ik mij focus gelegd op het leren gebruiken van de software keuzes die ik in de vorige sprint heb gemaakt, ook heb ik ander benodigde dingen geleerd.
+De dingen die ik heb geleerd:
+* De Unity interface
+* De Unity mappen structuur
+* Hoe ik Unity en VS 2019 samen kan laten werken
+* In C# simpele code schrijfen
+* Wat ik allemaal noding ging hebben
+
+# sprint 3
+11/03/2022-22/04/2022:
+
+Hier heb ik het meeste aan echt scripten en het gebruiken van wat ik heb geleerd gedaan ik heb een lijst met fucties gemaakt en alles soepel laten werken.
+Dit is wat ik deze periode heb geactualiseerd:
+* Met een vr headset op rond kunnen kijken
+* Modelen/Texturen van alles wat ik nodig had
+* Buttons interactief maken
+* Licht uit en aan zetten mogelijk maken met de buttons
+* De score veranderen met de buttons
+* Particles inladen met de knoppen
+* Verschillende geluiden afspelen met de knoppen
+
 
 ## Usertests
 
