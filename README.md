@@ -16,6 +16,17 @@ Voor mij is het lagstigste gedeelte Unity leren kennen aangezien ik nog nooit In
 ## Is er voldoende tijd hiervoor?
 Aangezien dit mijn eerste keer is om zoiets te maken heb ik het vrij simpel gehouded dus ik denk dat het prima haalbaar is.
 
+## Logboek 
+14/03/2022-18/03/2022
+Tussen deze tijd heb ik verschillende onderzoeken gedaan, dit moest ik doen omdat ik nog nooit met deze software heb gewerkt, het zelfde geld voor dit platform.
+Ook heb ik keuzes moeten maken over wat ik gebruik 
+De onderzoeken die ik heb gedaan zijn:
+* Verschillen tussen Unity en Unreal
+* Welke virtual reality headsets je voor kan developen
+* Alle plugins die ik nodig had om virtual reality te kunnen developen
+De keuzes die ik heb gemaakt:
+* Unity inplaats van Unreal
+* SteamVr inplaats van Oculus
 
 ## Usertests
 
